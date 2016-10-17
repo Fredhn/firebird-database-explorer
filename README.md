@@ -1,2 +1,7 @@
 # solution-finder
-Firebird DB Explorer
+Firebird Database Explorer
+- Developed to practice some coding skills
+
+Features:
+- ADO Connectivity
+- Firebird Database
