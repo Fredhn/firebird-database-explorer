@@ -240,20 +240,6 @@ namespace Solution_Finder.UI_Panel
 
             return _connectionString;
         }
-        // VERIFICA CONEXÃO BD
-        //public void VerificaConexaoBD(bool finderBD = false)
-        //{
-        //    if (finderBD == true)
-        //    {
-        //        pbStatusFinderDB.BackColor = Color.Green;
-        //        FirebirdConnection.Desconectar();
-        //    }
-        //    else if(finderBD == false)
-        //    {
-        //        pbStatusMinerBD.BackColor = Color.Green;
-        //        FirebirdConnection.Desconectar();
-        //    }
-        //}
         //EventClick: VOLTAR A TELA LOGIN
         private void lnkSettingsBack_Click(object sender, EventArgs e)
         {
